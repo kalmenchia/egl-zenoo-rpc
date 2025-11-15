@@ -78,6 +78,21 @@ Integrate Zenoo RPC MCP Server into your workflow:
 | [**09. Deployment Guide**](./09-deployment.md) | Production deployment strategies | Administrators, DevOps |
 | [**10. Troubleshooting**](./10-troubleshooting.md) | Common issues and solutions | All |
 
+### 🔧 Advanced Topics
+
+| Document | Description | Audience |
+|----------|-------------|----------|
+| [**11. Advanced Topics**](./11-advanced/README.md) | Customization and extension guides | Developers |
+| [**11.1 Custom MCP Clients**](./11-advanced/custom-clients.md) | Build your own MCP clients | Developers |
+| [**11.2 Extending the Server**](./11-advanced/extending-server.md) | Add custom tools and plugins | Developers |
+
+### 🐛 Issues & Planning
+
+| Document | Description | Audience |
+|----------|-------------|----------|
+| [**12. Known Issues**](./12-known-issues/README.md) | Current limitations and workarounds | All |
+| [**13. Roadmap**](./13-roadmap/README.md) | Planned features and timeline | All |
+
 ### 🎯 Use Case Guides
 
 | Guide | Description |
