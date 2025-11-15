@@ -6,6 +6,15 @@ Welcome to the comprehensive documentation for Zenoo RPC - a zen-like, modern as
 
 This documentation is organized into several sections to help you get the most out of Zenoo RPC:
 
+### 🤖 MCP Server (NEW!)
+**Use Odoo with Claude Desktop and AI Assistants**:
+- **[MCP Server Overview](mcp-server/README.md)** - Complete MCP server documentation hub
+- **[Architecture & Design](mcp-server/01-overview-architecture.md)** - How the MCP server works
+- **[Installation & Setup](mcp-server/02-installation-setup.md)** - Get the MCP server running
+- **[Claude Desktop Integration](mcp-server/04-claude-desktop-integration.md)** - Connect with Claude Desktop
+- **[MCP Tools Reference](mcp-server/05-tools-reference.md)** - All 8 available MCP tools
+- **[Use Cases & Examples](mcp-server/use-cases/)** - Real-world MCP usage scenarios
+
 ### 🏁 Getting Started
 Perfect for newcomers to Zenoo RPC:
 - **[Installation](getting-started/installation.md)** - Complete installation guide with all options
@@ -73,6 +82,13 @@ Help improve Zenoo RPC:
 
 ## 🚀 Quick Navigation
 
+### Want to use Odoo with Claude Desktop? 🤖
+**⭐ Start here for the MCP Server**:
+1. Read [MCP Server Overview](mcp-server/README.md)
+2. Follow [Installation & Setup](mcp-server/02-installation-setup.md)
+3. Configure [Claude Desktop Integration](mcp-server/04-claude-desktop-integration.md)
+4. Try natural language queries with your Odoo data!
+
 ### New to Zenoo RPC?
 1. Start with [Installation](getting-started/installation.md)
 2. Follow the [Quick Start](getting-started/quickstart.md) tutorial
@@ -85,6 +101,8 @@ Help improve Zenoo RPC:
 3. Review [Performance Optimization](tutorials/performance-optimization.md)
 
 ### Looking for specific features?
+- **MCP Server**: [Complete MCP Documentation](mcp-server/README.md)
+- **AI Features**: [AI-Powered Capabilities](ai-features.md)
 - **Type Safety**: [Models & Type Safety](user-guide/models.md)
 - **Performance**: [Caching](user-guide/caching.md) and [Batch Operations](user-guide/batch-operations.md)
 - **Reliability**: [Transactions](user-guide/transactions.md) and [Retry Mechanisms](user-guide/retry-mechanisms.md)
